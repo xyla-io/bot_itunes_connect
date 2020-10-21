@@ -1,0 +1,8 @@
+{
+  "email": "EMAIL",
+  "password": "PASSWORD",
+  "base_url": "BASEURL",
+  "app_ids": [
+    "APPID"
+  ]
+}
